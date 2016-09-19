@@ -13,6 +13,8 @@
             href="{{ asset('assets/custom/css/footer.css') }}">
         <link rel="stylesheet"
             href="{{ asset('assets/custom/less/select.css') }}">
+        <link rel="stylesheet"
+            href="{{ asset('assets/custom/css/kyrr-search.css') }}">
         
 
         <script type="text/javascript" src="{{ asset('assets/custom/js/events.js') }}"></script>
@@ -21,12 +23,16 @@
     	<div class="container">
 
       <div class="page-header">
-        <h1>Kyrr ♡ Pokémon ♡ Gen 1 </h1>
+        <h1>Kyrr ♡ Pokémon ♡ Gen 1</h1>
         <p class="lead">🌍 WIP Generation 1 PokéDex 🌏</p>
       </div>
 
-      <div class="form-group">
-      <input type="text" class="form-control" name="search" id="search" placeholder="Search..." />
+      <div class="kyrr-search">
+      <input type="text" class="kyrr-search-input" name="search" id="search" placeholder="Search..." />
+      <select class="kyrr-search-select">
+        <option>Name</option>
+        <option>Id</option>
+      </select>
       </div>
       <h3></h3>
       <p><span id="rowCount">All</span> Pokémon.</p>
@@ -43,18 +49,18 @@
           </thead>
            {% for monster in pokemon %}
            
-            <tr class="pokeRow">
+            <tr class="pokeRow pId{{ monster.id }} {{ monster.name }}">
             {% if monster.id < 10 %}
-              <td class="pokeId">#00{{ monster.id }}</td>
+              <td class="pokeId pId{{ monster.id }} {{ monster.name }}">#00{{ monster.id }}</td>
             {% elseif monster.id < 100 %}
-              <td class="pokeId">#0{{ monster.id }}</td>
+              <td class="pokeId pId{{ monster.id }} {{ monster.name }}">#0{{ monster.id }}</td>
             {% else %}
-              <td class="pokeId">#{{ monster.id }}</td>
+              <td class="pokeId pId{{ monster.id }} {{ monster.name }}">#{{ monster.id }}</td>
             {% endif %}
-              <td class="pokeName">{{ monster.name }}</td>
-              <td class="pokeType">{{ monster.type }}</td>
-              <td class="pokeDescription">{{ monster.description }}</td>
-              <td><img alt="icon for pokemon #{{ monster.id }} {{ monster.name }}" src="/concert/web/assets/custom/images/pokemon/{{ monster.id }}.png"/></td>
+              <td class="pokeName pId{{ monster.id }} {{ monster.name }}">{{ monster.name }}</td>
+              <td class="pokeType pId{{ monster.id }} {{ monster.name }}">{{ monster.type }}</td>
+              <td class="pokeDescription pId{{ monster.id }} {{ monster.name }}">{{ monster.description }}</td>
+              <td><img alt="icon for pokemon no. {{ monster.id }} {{ monster.name }}" src="/concert/web/assets/custom/images/pokemon/{{ monster.id }}.png"/></td>
             </tr>
 
           {% endfor %}

@@ -1,15 +1,15 @@
 //src = web/assets/custom/js/events.js
 $( document ).ready(function(){
 
+	
 	function timedOnPageSearch(searchString, classToSearch, k) {
 		if(classToSearch.charAt(0)!="."){
 			console.log("searchString: " + searchString + " classToSearch: " + classToSearch);
 		}else{
-			//searchString can be empty!!
 			setTimeout(function(){
-			//time out a bit so it doesnt fire immidiately			
+			//time out for k??		
 			$( classToSearch ).each(function(i, obj){
-				
+
 				var text =  $( this ).html();
 
 				//text = text.toLowerCase();
@@ -40,7 +40,7 @@ $( document ).ready(function(){
 	$( '#search' ).on('keyup', function(){
 		searchString = $( '#search' ).val();
 		classToSearch = '.pokeRow > td';
-		timedOnPageSearch(searchString, classToSearch, 290);
-		updateCounter(300);
+		timedOnPageSearch(searchString, classToSearch, 1);
+		updateCounter(2);
 	});
 });
