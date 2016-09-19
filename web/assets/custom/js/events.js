@@ -1,7 +1,7 @@
 //src = web/assets/custom/js/events.js
 $( document ).ready(function(){
 
-	
+
 	function timedOnPageSearch(searchString, classToSearch, k) {
 		if(classToSearch.charAt(0)!="."){
 			console.log("searchString: " + searchString + " classToSearch: " + classToSearch);
@@ -43,4 +43,16 @@ $( document ).ready(function(){
 		timedOnPageSearch(searchString, classToSearch, 1);
 		updateCounter(2);
 	});
+
+	$( '#search' ).on('keydown', function(){
+		$( '.pokeName' ).each(function(i, obj){
+			console.log(obj);
+		});
+	});
+
+
+
+
+
+
 });
