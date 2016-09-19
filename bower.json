@@ -1,0 +1,26 @@
+{
+  "name": "concert",
+  "authors": [
+    "kyrrr <kyrrebugge@gmail.com>"
+  ],
+  "description": "learning symfony framework",
+  "main": "/src/AppBundle/Controller/DefaultController.php",
+  "keywords": [
+    "learning",
+    "being-cool",
+    "love"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

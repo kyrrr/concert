@@ -1,0 +1,72 @@
+{# app/Resources/views/layout.html.twig #}
+<!doctype html>
+<html>
+    <head>
+        <script type="text/javascript"
+                src="{{ asset('assets/vendor/jquery/dist/jquery.min.js') }}">
+        </script>
+        <link rel="stylesheet"
+            href="{{ asset('assets/vendor/bootstrap/dist/css/bootstrap.min.css') }}">
+        <link rel="stylesheet"
+            href="{{ asset('assets/custom/css/grid.css') }}">
+        <link rel="stylesheet"
+            href="{{ asset('assets/custom/css/footer.css') }}">
+        <link rel="stylesheet"
+            href="{{ asset('assets/custom/less/select.css') }}">
+        
+
+        <script type="text/javascript" src="{{ asset('assets/custom/js/events.js') }}"></script>
+    </head>
+    <body>
+    	<div class="container">
+
+      <div class="page-header">
+        <h1>Kyrr ♡ Pokémon ♡ Gen 1 </h1>
+        <p class="lead">🌍 WIP Generation 1 PokéDex 🌏</p>
+      </div>
+
+      <div class="form-group">
+      <input type="text" class="form-control" name="search" id="search" placeholder="Search..." />
+      </div>
+      <h3></h3>
+      <p><span id="rowCount">All</span> Pokémon.</p>
+      <div class="row">
+          <table class="table" id="pokemonTable">
+          <thead>
+            <tr>
+              <th>Id</th>
+              <th>Name</th>
+              <th>Type</th>
+              <th>Description</th>
+              <th>Icon</th>
+            </tr>
+          </thead>
+           {% for monster in pokemon %}
+           
+            <tr class="pokeRow">
+            {% if monster.id < 10 %}
+              <td class="pokeId">#00{{ monster.id }}</td>
+            {% elseif monster.id < 100 %}
+              <td class="pokeId">#0{{ monster.id }}</td>
+            {% else %}
+              <td class="pokeId">#{{ monster.id }}</td>
+            {% endif %}
+              <td class="pokeName">{{ monster.name }}</td>
+              <td class="pokeType">{{ monster.type }}</td>
+              <td class="pokeDescription">{{ monster.description }}</td>
+              <td><img alt="icon for pokemon #{{ monster.id }} {{ monster.name }}" src="/concert/web/assets/custom/images/pokemon/{{ monster.id }}.png"/></td>
+            </tr>
+
+          {% endfor %}
+          </table>
+      </div>
+    </div> <!-- /container -->
+
+    <footer class="footer">
+      <div class="container">
+        <p class="text-muted">Kyrro Industries 2016</p>
+      </div>
+    </footer>
+
+    </body>
+</html>
