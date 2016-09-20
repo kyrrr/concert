@@ -23,9 +23,9 @@ class DefaultController extends Controller
     public function indexAction(Request $request)
     {
         $myVar = "Welcome!";
-        $myArray = array('🚓' => 'foo', '㊙', '⚰', "🚓");
+        $myArray = array('weh' => 'foo', '㊙', '⚰', "🚓");
  
-        $foo = $myArray['🚓']; //lol0l
+        $foo = $myArray['weh']; //lol0l
 
         return $this->render('layout.html.twig', array(
                'myVar' => $myVar,

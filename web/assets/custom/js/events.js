@@ -10,7 +10,7 @@ $( document ).ready(function(){
 			//time out for k??		
 			$( classToSearch ).each(function(i, obj){
 
-				var text =  $( this ).html();
+				var text =  $( this ).html().toString();
 
 				//text = text.toLowerCase();
 				//searchString = searchString.toLowerCase();
@@ -30,6 +30,21 @@ $( document ).ready(function(){
 		}
 	}
 
+	function suggestion(searchString, suggestionClass) {
+		$( suggestionClass ).each(function(i, obj){
+			 var toMatch = $( this ).html().toString();
+			 if(toMatch.indexOf(searchString) !=-1){
+					if(!toMatch.indexOf("toMatch") !=-1){
+						//console.log("Match: " + toMatch);
+					}
+
+				}else{
+					//onsole.log(" " + i);
+					
+				}
+		});
+	}
+
 	function updateCounter(i) {
 		setTimeout(function(){  
 		    numberOfItemsShown = $( '.rowIsShown' ).length;
@@ -45,9 +60,27 @@ $( document ).ready(function(){
 	});
 
 	$( '#search' ).on('keydown', function(){
-		$( '.pokeName' ).each(function(i, obj){
-			console.log(obj);
-		});
+		var toggle = $( '.kyrr-search-select' ).find(':selected').text().toLowerCase();
+		//console.log(toggle);
+
+		switch(toggle) {
+    		case 'name':
+        		console.log(toggle);
+        		break;
+    		case 'id':
+        		console.log(toggle);
+        		break;
+        	case 'type':
+        		console.log(toggle);
+    		default:
+        		console.log("default");
+		}
+
+		//switch case it
+		searchString = $( '#search' ).val();
+		suggestionClass = '.pokeType';
+		suggestion(searchString, suggestionClass);
+		
 	});
 
 
