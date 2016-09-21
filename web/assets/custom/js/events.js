@@ -1,7 +1,6 @@
 //src = web/assets/custom/js/events.js
 $( document ).ready(function(){
 
-
 	function timedOnPageSearch(searchString, classToSearch, k) {
 		if(classToSearch.charAt(0)!="."){
 			console.log("searchString: " + searchString + " classToSearch: " + classToSearch);
@@ -11,19 +10,19 @@ $( document ).ready(function(){
 			$( classToSearch ).each(function(i, obj){
 
 				var text =  $( this ).html().toString();
-
-				//text = text.toLowerCase();
-				//searchString = searchString.toLowerCase();
+				//console.log(text);
+				text = text.toLowerCase();
+				searchString = searchString.toLowerCase();
 
 				if(text.indexOf(searchString) !=-1){
-					//console.log("show: " + i);
-					$( this ).parent('tr').show();
-					$( this ).parent('tr').toggleClass( 'rowIsShown', true );
+					console.log("show: " + i);
+					$( this ).parent('td').parent('tr').show();
+					$( this ).parent('td').parent('tr').toggleClass( 'rowIsShown', true );
 
 				}else{
-					//console.log("hide: " + i);
-					$( this ).parent('tr').hide();
-					$( this ).parent('tr').toggleClass( 'rowIsShown', false );
+					console.log("hide: " + i);
+					$( this ).parent('td').parent('tr').hide();
+					$( this ).parent('td').parent('tr').toggleClass( 'rowIsShown', false );
 				}
 			});	
 		}, k);
@@ -35,12 +34,8 @@ $( document ).ready(function(){
 			 var toMatch = $( this ).html().toString();
 			 if(toMatch.indexOf(searchString) !=-1){
 					if(!toMatch.indexOf("toMatch") !=-1){
-						//console.log("Match: " + toMatch);
+						console.log("Match: " + toMatch);
 					}
-
-				}else{
-					//onsole.log(" " + i);
-					
 				}
 		});
 	}
@@ -53,34 +48,19 @@ $( document ).ready(function(){
 	}
 
 	$( '#search' ).on('keyup', function(){
+		var toggle = $( '.kyrr-search-select' ).find(':selected').text();
 		searchString = $( '#search' ).val();
-		classToSearch = '.pokeRow > td';
+		classToSearch = '.poke' + toggle;
 		timedOnPageSearch(searchString, classToSearch, 1);
 		updateCounter(2);
 	});
 
 	$( '#search' ).on('keydown', function(){
-		var toggle = $( '.kyrr-search-select' ).find(':selected').text().toLowerCase();
-		//console.log(toggle);
-
-		switch(toggle) {
-    		case 'name':
-        		console.log(toggle);
-        		break;
-    		case 'id':
-        		console.log(toggle);
-        		break;
-        	case 'type':
-        		console.log(toggle);
-    		default:
-        		console.log("default");
-		}
-
-		//switch case it
-		searchString = $( '#search' ).val();
-		suggestionClass = '.pokeType';
-		suggestion(searchString, suggestionClass);
-		
+		//var toggle = $( '.kyrr-search-select' ).find(':selected').text();
+		//searchString = $( '#search' ).val();
+		//suggestionClass = '.poke' + toggle;
+		//console.log(suggestionClass);
+		//suggestion(searchString, suggestionClass);
 	});
 
 
