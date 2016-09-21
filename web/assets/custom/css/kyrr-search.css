@@ -7,7 +7,7 @@
 .kyrr-search-input {
     float: left;
     border: 1px solid #EFF0F1;
-    border-radius: 0px;
+    border-radius: 4px;
     box-sizing: border-box;
     padding-right: 80px;
     height: 100%;
@@ -18,15 +18,8 @@
 .kyrr-search-input:focus {
     border-color: #EFF0F1;
     outline: 0;
-    -webkit-box-shadow: 1px 0px 2px #c6c6c6;
-    box-shadow: 1px 0px 2px #c6c6c6; 
-}
-
-.kyrr-search-select:focus {
-    border-color: #EFF0F1;
-    outline: 0;
-    -webkit-box-shadow: 1px 0px 2px #c6c6c6;
-    box-shadow: 2px 0px 2px #c6c6c6;
+    -webkit-box-shadow: 1px 1px 1px 0px #c6c6c6;
+    box-shadow: 1px 1px 1px 0px #c6c6c6;
 }
 
 .kyrr-search-select {
@@ -37,12 +30,26 @@
     border-right: 0px;
     border-bottom: 0px;
     border-left: 1px solid #EFF0F1;
-    border-radius: 0px;
+    border-radius: 4px;
     top: 0;
     right: 0;
     width: 100px;
     height: 100%;
     padding-left: 30px;
+}
+
+.kyrr-search-select:focus {
+    border-color: #EFF0F1;
+    outline: 0;
+    -webkit-box-shadow: 1px 1px 1px 0px #c6c6c6;
+    box-shadow: 1px 1px 1px 0px #c6c6c6;
+}
+
+.kyrr-search-suggestion {
+    /*display:none;*/
+    position: absolute;
+    top:50%;
+    background-color: #000
 }
 
 .triangle-wrapper {
