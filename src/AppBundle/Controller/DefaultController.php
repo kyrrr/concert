@@ -55,6 +55,27 @@ class DefaultController extends Controller
     }
 
     /**
+    * Mass edits of db content
+    * @Route("/poke/edit")
+    */
+    public function editPokedex()
+    {
+        $repo = $this->getDoctrine()
+            ->getRepository('AppBundle:Pokemon');
+
+        $pokemon = $repo->findAll();
+
+        if(!$pokemon){
+            throw $this->createNotFoundException(
+                'No pokemon found'
+            );
+        }else{ 
+
+            return $this->render('/pokemon/editPokedex.html.twig', array('pokemon' => $pokemon,));
+        }
+    }
+
+    /**
     * @Route("/poke/id/{id}", name="getPokeById")
     */
     public function getPokeById($id=null)
@@ -165,7 +186,7 @@ class DefaultController extends Controller
 
             if (!$pokemon) {
                 throw $this->createNotFoundException(
-                    'No pokemon found for name '.$name
+                    'No pokemon found for id '.$id
                 );
             }else{
                 $icon = $pokemon->getIcon();

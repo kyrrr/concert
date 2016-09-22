@@ -9,7 +9,7 @@ $( document ).ready(function(){
 			//time out for k??		
 			$( classToSearch ).each(function(i, obj){
 
-				var text =  $( this ).html().toString();
+				var text = $( this ).html().toString();
 				//console.log(text);
 				text = text.toLowerCase();
 				searchString = searchString.toLowerCase();

@@ -39,6 +39,7 @@ class Pokemon
     protected $icon;
 
 
+
     
     /**
      * Get id
