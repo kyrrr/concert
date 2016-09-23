@@ -39,18 +39,20 @@ class DefaultController extends Controller
     */
     public function pokedex()
     {
+    
         $repo = $this->getDoctrine()
             ->getRepository('AppBundle:Pokemon');
 
         $pokemon = $repo->findAll();
+
+        $generationCutoff = array('Gen1' => 151, 'Gen2' => 251);
 
         if(!$pokemon){
             throw $this->createNotFoundException(
                 'No pokemon found'
             );
         }else{ 
-
-            return $this->render('/pokemon/pokedex.html.twig', array('pokemon' => $pokemon,));
+            return $this->render('/pokemon/pokedex.html.twig', array('pokemon' => $pokemon, 'generationCutoff' => $generationCutoff));
         }
     }
 
@@ -202,7 +204,7 @@ class DefaultController extends Controller
                     $entityManger->persist($pokemon);
                     $entityManger->flush(); 
 
-                    return $this->redirectToRoute('getPokeById', array('id' => $id));
+                    return $this->redirectToRoute('editPokeById', array('id' => $id - 1));
                 }
 
                 return $this->render('/pokemon/editPokemon.html.twig', array(

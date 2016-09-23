@@ -23,10 +23,41 @@ class PokemonMapCoordinates
 
 	/**
  	* @ORM\Column(type="integer")
- 	* @ORM\Table(name="PokemonMapCoordinates")
  	*/
 	private $topLeft;
-	private $topRight;
-	private $bottomLeft;
-	private $bottomRight;
+	
+
+    /**
+     * Get id
+     *
+     * @return integer
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Set topLeft
+     *
+     * @param integer $topLeft
+     *
+     * @return PokemonMapCoordinates
+     */
+    public function setTopLeft($topLeft)
+    {
+        $this->topLeft = $topLeft;
+
+        return $this;
+    }
+
+    /**
+     * Get topLeft
+     *
+     * @return integer
+     */
+    public function getTopLeft()
+    {
+        return $this->topLeft;
+    }
 }
