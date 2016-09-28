@@ -35,7 +35,7 @@
             </tr>
           </thead>
            {% for monster in pokemon %}
-           {% if monster.id <= generationCutoff.Gen1 %}
+           {% if monster.id <= generationCutoff.Gen2 %}
             <tr class="pokeRow pId{{ monster.id }} {{ monster.name }}">
             {% if monster.id < 10 %}
               <td><p class="pokeId pId{{ monster.id }} {{ monster.name }}">#00{{ monster.id }}</p></td>

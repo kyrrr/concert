@@ -20,6 +20,7 @@ class FaceSayCommand extends Command
         ->addArgument('toSay', InputArgument::OPTIONAL, 'face should say this')
         ->addOption('face', 'f', InputOption::VALUE_REQUIRED, 'which face', false)
         ;
+        //list faces
     }
 
     protected function execute(InputInterface $input, OutputInterface $output)

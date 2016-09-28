@@ -22,16 +22,67 @@ class DefaultController extends Controller
      */
     public function indexAction(Request $request)
     {
-        $myVar = "Welcome!";
-        $myArray = array('weh' => 'foo', '㊙', '⚰', "🚓");
- 
-        $foo = $myArray['weh']; //lol0l
+        /*$entityManager = $this->getDoctrine()->getManager();
+        $qb = $entityManager->createQueryBuilder();
+        $qb->select($qb->expr()->count('pokemon.id'));
+        $qb->from('AppBundle:Pokemon','pokemon');
 
-        return $this->render('layout.html.twig', array(
-               'myVar' => $myVar,
-               'myArray' => $myArray,
-               'foo' => $foo,
-               ));
+        $count = $qb->getQuery()->getSingleScalarResult();*/
+
+        /*$count = $this->rowCount('pokemon.id', 'AppBundle:Pokemon');
+
+        $entityManager = $this->getDoctrine()->getManager();
+
+        for ($i = $count + 1; $i < $count + 1 + 500 ; $i++) { 
+            $pokemon = new Pokemon();
+            $pokemon->setName('name'.$i);
+            $pokemon->setType('type'.$i);
+            $pokemon->setDescription('description'.$i);
+            $pokemon->setIcon($i);
+            $entityManager->persist($pokemon);
+        }
+
+        $entityManager->flush();
+
+        //return new Response($count);
+        $newCount = $this->rowCount('pokemon.id', 'AppBundle:Pokemon');*/
+
+        return new Response("This is the root. not much to look at");
+
+    }
+
+    protected function rowCount($tableIndex=null, $package=null)
+    {
+        if( is_null($tableIndex) || is_null($package) ){
+            return new Response("Missing arguments for rowCount()");
+        }
+
+        $arrayTableAndIndex = explode('.', $tableIndex);
+        $arraySplitPackage = explode(':', $package);
+
+        $error = "";
+
+        if(count($arrayTableAndIndex) < 1){
+            $error = $error." could not extract table from tableIndex for rowCount()";
+        }
+        if(count($arrayTableAndIndex) > 2){
+            $error = $error." Too many '.' in tableIndex for rowCount()";
+        }
+
+        if($error != ""){
+            return new Response(var_dump($error));
+        }else{
+
+            $table = $arrayTableAndIndex[0];
+
+            $entityManager = $this->getDoctrine()->getManager();
+            $qb = $entityManager->createQueryBuilder();
+            $qb->select($qb->expr()->count($tableIndex));
+            $qb->from($package, $table);
+
+            
+            return $count = $qb->getQuery()->getSingleScalarResult();
+        }
     }
 
     /**
@@ -44,8 +95,13 @@ class DefaultController extends Controller
             ->getRepository('AppBundle:Pokemon');
 
         $pokemon = $repo->findAll();
+        $stressTest = $this->rowCount('pokemon.id', 'AppBundle:Pokemon');
 
-        $generationCutoff = array('Gen1' => 151, 'Gen2' => 251);
+        $generationCutoff = array(
+            'Gen1' => 151, 
+            'Gen2' => 251,
+            'stressTest' => $stressTest,
+            );
 
         if(!$pokemon){
             throw $this->createNotFoundException(
@@ -200,9 +256,9 @@ class DefaultController extends Controller
 
                 if($form->isSubmitted() && $form->isValid()){
                     $pokemon = $form->getData();
-                    $entityManger = $this->getDoctrine()->getManager();
-                    $entityManger->persist($pokemon);
-                    $entityManger->flush(); 
+                    $entityManager = $this->getDoctrine()->getManager();
+                    $entityManager->persist($pokemon);
+                    $entityManager->flush(); 
 
                     return $this->redirectToRoute('editPokeById', array('id' => $id - 1));
                 }

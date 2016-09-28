@@ -1,4 +1,6 @@
 //src = web/assets/custom/js/events.js
+//TODO: change name
+//stress test..
 $( document ).ready(function(){
 
 	function timedOnPageSearch(searchString, classToSearch, k) {
@@ -7,29 +9,31 @@ $( document ).ready(function(){
 		}else{
 			setTimeout(function(){
 			//time out for k??		
-			$( classToSearch ).each(function(i, obj){
+				$( classToSearch ).each(function(i, obj){
 
-				var text = $( this ).html().toString().toLowerCase();
-				searchString = searchString.toLowerCase();
+					var text = $( this ).html().toString().toLowerCase();
+					searchString = searchString.toLowerCase();
 
-				if(text.indexOf(searchString) !=-1){
-					console.log("show: " + i);
-					$( this ).parent('td').parent('tr').show();
-					$( this ).parent('td').parent('tr').toggleClass( 'rowIsShown', true );
+					if(text.indexOf(searchString) !=-1){
+						console.log("show: " + i);
+						$( this ).parent('td').parent('tr').show();
+						$( this ).parent('td').parent('tr').toggleClass( 'rowIsShown', true );
 
-				}else{
-					console.log("hide: " + i);
-					$( this ).parent('td').parent('tr').hide();
-					$( this ).parent('td').parent('tr').toggleClass( 'rowIsShown', false );
-				}
-			});	
-		}, k);
+					}else{
+						console.log("hide: " + i);
+						$( this ).parent('td').parent('tr').hide();
+						$( this ).parent('td').parent('tr').toggleClass( 'rowIsShown', false );
+					}
+				});	
+			}, k);
 		}
 	}
 
 	function suggestion(searchString, suggestionClass) {
 		$( suggestionClass ).each(function(i, obj){
+
 			 var toMatch = $( this ).html().toString();
+
 			 if(toMatch.indexOf(searchString) !=-1){
 					if(!toMatch.indexOf("toMatch") !=-1){
 						console.log("Match: " + toMatch);
