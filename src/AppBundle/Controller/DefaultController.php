@@ -4,6 +4,7 @@ namespace AppBundle\Controller;
 
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
+use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Form\Extension\Core\Type\TextType;
@@ -22,18 +23,17 @@ class DefaultController extends Controller
      */
     public function indexAction(Request $request)
     {
-        /*$entityManager = $this->getDoctrine()->getManager();
+        $entityManager = $this->getDoctrine()->getManager();
         $qb = $entityManager->createQueryBuilder();
         $qb->select($qb->expr()->count('pokemon.id'));
         $qb->from('AppBundle:Pokemon','pokemon');
 
-        $count = $qb->getQuery()->getSingleScalarResult();*/
+        $count = $qb->getQuery()->getSingleScalarResult();
 
-        /*$count = $this->rowCount('pokemon.id', 'AppBundle:Pokemon');
+        //$count = $this->rowCount('pokemon.id', 'AppBundle:Pokemon');
 
-        $entityManager = $this->getDoctrine()->getManager();
-
-        for ($i = $count + 1; $i < $count + 1 + 500 ; $i++) { 
+        //for ($i = $count + 1; $i < $count + 1 + 500 ; $i++) {
+        /*for($i=1;$i<152;$i+=1){
             $pokemon = new Pokemon();
             $pokemon->setName('name'.$i);
             $pokemon->setType('type'.$i);
@@ -41,37 +41,35 @@ class DefaultController extends Controller
             $pokemon->setIcon($i);
             $entityManager->persist($pokemon);
         }
+        $entityManager->flush();*/
 
-        $entityManager->flush();
 
-        //return new Response($count);
-        $newCount = $this->rowCount('pokemon.id', 'AppBundle:Pokemon');*/
-
-        return new Response("This is the root. not much to look at");
+        //$newCount = $this->rowCount('pokemon.id', 'AppBundle:Pokemon');
+        return new Response("count:".$count);
+        //return new Response("This is the root. not much to look at");
 
     }
 
-    protected function rowCount($tableIndex=null, $package=null)
+    protected function rowCount($tableIndex=false, $package=false)
     {
-        if( is_null($tableIndex) || is_null($package) ){
-            return new Response("Missing arguments for rowCount()");
+        $error = [];
+
+        if($tableIndex || $package){
+            $error[count($error)+1] = "Missing argument(s) for rowCount() \n ";
         }
 
         $arrayTableAndIndex = explode('.', $tableIndex);
         $arraySplitPackage = explode(':', $package);
 
-        $error = "";
-
         if(count($arrayTableAndIndex) < 1){
-            $error = $error." could not extract table from tableIndex for rowCount()";
-        }
-        if(count($arrayTableAndIndex) > 2){
-            $error = $error." Too many '.' in tableIndex for rowCount()";
+            $error[count($error)+1] = " could not extract table from tableIndex for rowCount()";
         }
 
-        if($error != ""){
-            return new Response(var_dump($error));
-        }else{
+        if(count($arrayTableAndIndex) > 2){
+            $error[count($error)+1] = " Too many '.' in tableIndex for rowCount()";
+        }
+
+
 
             $table = $arrayTableAndIndex[0];
 
@@ -82,6 +80,12 @@ class DefaultController extends Controller
 
             
             return $count = $qb->getQuery()->getSingleScalarResult();
+
+    }
+
+    function error($errorThings){
+        foreach ($errorThings as $error) {
+            echo $error;
         }
     }
 
@@ -95,6 +99,8 @@ class DefaultController extends Controller
             ->getRepository('AppBundle:Pokemon');
 
         $pokemon = $repo->findAll();
+
+        //counts all rows. they are many
         $stressTest = $this->rowCount('pokemon.id', 'AppBundle:Pokemon');
 
         $generationCutoff = array(
@@ -270,6 +276,41 @@ class DefaultController extends Controller
                       'name' => $name,
                        ));
             }
+        }
+    }
+
+    /**
+     * @Route("/poke/getIcon/id/{id}", name="getIconById")
+     */
+    public function getIconById($id=0){
+        if($id > 0 && $id < 152){
+            $repo = $this->getDoctrine()
+                ->getRepository('AppBundle:Pokemon');
+
+            $pokemon = $repo->findOneBy(
+                array(
+                    'id' => $id,
+                    )
+            );
+
+            if($pokemon){
+                return new JsonResponse(array(
+                    'id' => $id,
+                    'icon_path' => 'http://10.0.2.2:8888/concert/web/assets/custom/images/pokemon/'.$id.'.png',
+                    )
+                );
+            }else{
+                return new JsonResponse(array(
+                    'error' => 'No poke found for id '.$id,
+                    )
+                );
+            }
+
+        }else{
+            return new JsonResponse(array(
+                'error' => 'selection (id) out of bounds'
+                )
+            );
         }
     }
 

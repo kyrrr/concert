@@ -52,6 +52,11 @@
     background-color: #000
 }
 
+.rowIsShown {
+
+}
+
+
 .triangle-wrapper {
     position: relative;
     right: 20%; 
@@ -77,6 +82,8 @@
     border-width: 8px 5px 0 5px;
     border-color: #bababa transparent transparent transparent;
 }
+
+
 
 
 

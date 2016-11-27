@@ -39,6 +39,7 @@ class Pokemon
     protected $icon;
 
 
+
     
     /**
      * Get id
@@ -146,5 +147,29 @@ class Pokemon
     public function getIconPath()
     {
         return $this->iconPath;
+    }
+
+    /**
+     * Set icon
+     *
+     * @param string $icon
+     *
+     * @return Pokemon
+     */
+    public function setIcon($icon)
+    {
+        $this->icon = $icon;
+
+        return $this;
+    }
+
+    /**
+     * Get icon
+     *
+     * @return string
+     */
+    public function getIcon()
+    {
+        return $this->icon;
     }
 }

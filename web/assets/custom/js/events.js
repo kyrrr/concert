@@ -49,12 +49,12 @@ $( document ).ready(function(){
 	    }, i);
 	}
 
-	$( '#search' ).on('keyup', function(){
-		var toggle = $( '.kyrr-search-select' ).find(':selected').text();
-		searchString = $( '#search' ).val();
-		classToSearch = '.poke' + toggle;
-		timedOnPageSearch(searchString, classToSearch, 1);
-		updateCounter(2);
+	$( '#search' ).on('keyup', function(){	
+			var toggle = $( '.kyrr-search-select' ).find(':selected').text();
+			searchString = $( '#search' ).val();
+			classToSearch = '.poke' + toggle;
+			timedOnPageSearch(searchString, classToSearch, 1);
+			updateCounter(2);
 	});
 
 	$( '#search' ).on('keydown', function(){
