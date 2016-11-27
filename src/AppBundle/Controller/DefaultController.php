@@ -27,7 +27,6 @@ class DefaultController extends Controller
         $qb = $entityManager->createQueryBuilder();
         $qb->select($qb->expr()->count('pokemon.id'));
         $qb->from('AppBundle:Pokemon','pokemon');
-
         $count = $qb->getQuery()->getSingleScalarResult();
 
         //$count = $this->rowCount('pokemon.id', 'AppBundle:Pokemon');
@@ -50,38 +49,7 @@ class DefaultController extends Controller
 
     }
 
-    protected function rowCount($tableIndex=false, $package=false)
-    {
-        $error = [];
 
-        if($tableIndex || $package){
-            $error[count($error)+1] = "Missing argument(s) for rowCount() \n ";
-        }
-
-        $arrayTableAndIndex = explode('.', $tableIndex);
-        $arraySplitPackage = explode(':', $package);
-
-        if(count($arrayTableAndIndex) < 1){
-            $error[count($error)+1] = " could not extract table from tableIndex for rowCount()";
-        }
-
-        if(count($arrayTableAndIndex) > 2){
-            $error[count($error)+1] = " Too many '.' in tableIndex for rowCount()";
-        }
-
-
-
-            $table = $arrayTableAndIndex[0];
-
-            $entityManager = $this->getDoctrine()->getManager();
-            $qb = $entityManager->createQueryBuilder();
-            $qb->select($qb->expr()->count($tableIndex));
-            $qb->from($package, $table);
-
-            
-            return $count = $qb->getQuery()->getSingleScalarResult();
-
-    }
 
     function error($errorThings){
         foreach ($errorThings as $error) {
@@ -100,13 +68,9 @@ class DefaultController extends Controller
 
         $pokemon = $repo->findAll();
 
-        //counts all rows. they are many
-        $stressTest = $this->rowCount('pokemon.id', 'AppBundle:Pokemon');
-
         $generationCutoff = array(
             'Gen1' => 151, 
             'Gen2' => 251,
-            'stressTest' => $stressTest,
             );
 
         if(!$pokemon){
@@ -296,7 +260,8 @@ class DefaultController extends Controller
             if($pokemon){
                 return new JsonResponse(array(
                     'id' => $id,
-                    'icon_path' => 'http://10.0.2.2:8888/concert/web/assets/custom/images/pokemon/'.$id.'.png',
+                    'icon_path' => 'https://localhost:8888//concert/web/assets/custom/images/pokemon/'.$id.'.png',
+                    'android_from_host_localhost_icon_path' => 'http://10.0.2.2:8888/concert/web/assets/custom/images/pokemon/'.$id.'.png',
                     )
                 );
             }else{
