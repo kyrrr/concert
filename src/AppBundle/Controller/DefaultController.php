@@ -261,7 +261,7 @@ class DefaultController extends Controller
                 return new JsonResponse(array(
                     'id' => $id,
                     'icon_path' => 'https://localhost:8888//concert/web/assets/custom/images/pokemon/'.$id.'.png',
-                    'android_from_host_localhost_icon_path' => 'http://10.0.2.2:8888/concert/web/assets/custom/images/pokemon/'.$id.'.png',
+                    'android_localhost_icon_path' => 'http://10.0.2.2:8888/concert/web/assets/custom/images/pokemon/'.$id.'.png',
                     )
                 );
             }else{
