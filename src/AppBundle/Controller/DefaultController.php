@@ -260,8 +260,8 @@ class DefaultController extends Controller
             if($pokemon){
                 return new JsonResponse(array(
                     'id' => $id,
-                    'icon_path' => 'https://localhost:8888//concert/web/assets/custom/images/pokemon/'.$id.'.png',
-                    'android_localhost_icon_path' => 'http://10.0.2.2:8888/concert/web/assets/custom/images/pokemon/'.$id.'.png',
+                    'android_animated_icon_path' => 'https://10.0.2.2:8888//concert/web/assets/custom/images/pokemon/xy-animated-shortened/'.$id.'.gif',
+                    'android_gen1_icon_path' => 'http://10.0.2.2:8888/concert/web/assets/custom/images/pokemon/gen1/'.$id.'.png',
                     )
                 );
             }else{
