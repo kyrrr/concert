@@ -2,738 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fd57182-faaf-4aae-89dc-73d7824c7155" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/101.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/102.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/103.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/104.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/105.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/106.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/107.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/108.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/109.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/110.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/111.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/112.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/113.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/114.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/115.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/116.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/117.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/118.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/119.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/120.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/121.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/122.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/123.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/124.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/125.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/126.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/127.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/129.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/130.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/131.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/132.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/133.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/134.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/135.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/136.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/137.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/138.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/139.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/140.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/141.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/142.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/143.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/145.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/146.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/147.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/148.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/149.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/151.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/152.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/153.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/154.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/155.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/156.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/157.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/158.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/159.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/160.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/161.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/162.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/163.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/164.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/165.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/166.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/167.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/168.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/169.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/170.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/171.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/172.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/173.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/174.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/175.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/176.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/177.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/178.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/179.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/180.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/181.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/182.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/183.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/184.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/185.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/186.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/187.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/188.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/189.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/190.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/191.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/192.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/193.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/194.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/195.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/196.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/197.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/198.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/199.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/200.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-c.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-d.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-e.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-f.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-g.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-h.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-i.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-j.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-k.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-l.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-m.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-n.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-o.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-p.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-q.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-r.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-s.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-t.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-u.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-v.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-y.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201-z.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/201.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/202.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/203.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/204.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/205.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/206.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/207.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/208.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/209.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/210.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/211.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/212.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/213.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/214.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/215.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/216.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/217.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/218.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/219.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/220.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/221.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/222.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/223.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/224.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/225.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/226.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/227.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/228.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/229.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/230.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/231.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/232.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/233.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/234.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/235.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/236.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/237.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/238.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/239.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/241.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/242.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/243.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/244.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/245.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/246.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/247.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/248.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/249.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/250.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/251.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/37.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/38.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/43.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/44.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/46.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/47.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/49.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/51.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/53.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/54.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/55.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/56.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/58.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/59.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/61.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/62.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/63.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/65.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/66.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/67.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/68.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/69.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/70.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/71.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/73.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/74.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/75.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/76.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/77.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/78.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/79.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/80.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/81.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/82.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/83.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/84.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/85.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/86.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/87.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/88.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/89.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/90.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/91.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/92.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/93.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/94.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/95.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/97.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/98.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/99.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/101.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/102.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/103.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/104.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/105.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/106.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/107.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/108.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/109.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/110.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/111.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/112.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/113.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/114.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/115.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/116.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/117.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/118.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/119.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/120.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/121.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/122.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/123.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/124.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/125.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/126.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/127.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/129.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/130.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/131.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/132.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/133.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/134.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/135.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/136.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/137.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/138.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/139.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/140.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/141.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/142.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/143.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/145.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/146.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/147.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/148.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/149.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/151.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/37.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/38.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/43.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/44.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/46.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/47.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/49.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/51.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/53.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/54.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/55.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/56.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/58.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/59.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/61.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/62.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/63.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/65.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/66.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/67.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/68.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/69.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/70.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/71.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/73.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/74.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/75.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/76.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/77.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/78.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/79.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/80.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/81.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/82.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/83.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/84.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/85.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/86.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/87.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/88.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/89.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/90.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/91.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/92.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/93.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/94.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/95.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/97.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/98.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/99.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/101.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/102.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/103.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/104.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/105.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/106.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/107.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/108.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/109.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/110.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/111.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/112.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/113.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/114.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/115.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/116.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/117.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/118.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/119.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/120.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/121.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/122.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/123.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/124.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/125.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/126.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/127.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/129.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/130.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/131.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/132.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/133.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/134.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/135.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/136.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/137.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/138.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/139.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/140.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/141.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/142.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/143.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/145.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/146.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/147.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/148.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/149.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/151.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/37.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/38.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/43.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/44.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/46.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/47.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/49.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/51.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/53.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/54.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/55.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/56.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/58.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/59.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/61.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/62.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/63.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/65.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/66.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/67.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/68.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/69.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/70.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/71.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/73.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/74.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/75.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/76.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/77.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/78.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/79.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/80.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/81.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/82.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/83.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/84.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/85.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/86.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/87.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/88.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/89.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/90.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/91.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/92.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/93.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/94.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/95.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/97.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/98.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/back/gray/99.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/101.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/102.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/103.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/104.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/105.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/106.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/107.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/108.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/109.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/110.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/111.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/112.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/113.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/114.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/115.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/116.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/117.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/118.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/119.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/120.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/121.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/122.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/123.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/124.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/125.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/126.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/127.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/129.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/130.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/131.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/132.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/133.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/134.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/135.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/136.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/137.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/138.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/139.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/140.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/141.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/142.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/143.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/144.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/145.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/146.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/147.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/148.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/149.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/151.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/37.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/38.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/43.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/44.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/46.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/47.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/49.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/51.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/53.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/54.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/55.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/56.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/58.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/59.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/61.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/62.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/63.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/65.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/66.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/67.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/68.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/69.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/70.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/71.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/73.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/74.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/75.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/76.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/77.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/78.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/79.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/80.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/81.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/82.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/83.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/84.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/85.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/86.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/87.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/88.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/89.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/90.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/91.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/92.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/93.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/94.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/95.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/97.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/98.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/gray/99.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/assets/custom/images/pokemon/kantoMap.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/flex/frame.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/flex/pg.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/Poke.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/failure.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/failure.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/pokemon/editPokemon.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/pokemon/editPokemon.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Form/PokemonType.php" afterPath="$PROJECT_DIR$/src/AppBundle/Form/PokemonType.php" />
     </list>
     <ignored path="concert.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -754,34 +30,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="parameters.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="262" column="138" selection-start-line="262" selection-start-column="138" selection-end-line="262" selection-end-column="138" />
+            <state relative-caret-position="321">
+              <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
               <folding>
-                <element signature="e#40#99#0#PHP" expanded="true" />
+                <element signature="e#40#66#0#PHP" expanded="true" />
+                <marker date="1481743949000" expanded="true" signature="2447:2561" ph="..." />
+                <marker date="1481743949000" expanded="true" signature="2484:2537" ph="..." />
+                <marker date="1481743949000" expanded="true" signature="2552:2561" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Scraper.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/Scraper.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -795,6 +54,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/AppBundle/Controller/ChatController.php" />
+        <option value="$PROJECT_DIR$/app/Resources/views/failure.html.twig" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/Poke.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Form/PokemonType.php" />
+        <option value="$PROJECT_DIR$/app/Resources/views/pokemon/editPokemon.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/flex/pg.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/flex/frame.html.twig" />
         <option value="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
       </list>
     </option>
@@ -805,6 +70,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
     <include_path>
       <path value="." />
@@ -812,9 +80,9 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="655" />
+    <option name="x" value="28" />
     <option name="y" value="23" />
-    <option name="width" value="625" />
+    <option name="width" value="1244" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -843,7 +111,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -859,86 +126,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="concert" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="concert" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="concert" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="concert" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="concert" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="concert" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="concert" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="custom" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="concert" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="concert" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="custom" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -996,50 +183,16 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="concert" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="concert" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="concert" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="concert" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kk" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -1092,6 +245,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1fd57182-faaf-4aae-89dc-73d7824c7155" name="Default" comment="" />
@@ -1103,18 +259,25 @@
       <workItem from="1478021066274" duration="4188000" />
       <workItem from="1479064317011" duration="348000" />
       <workItem from="1480248640272" duration="1684000" />
-      <workItem from="1480278227049" duration="462000" />
+      <workItem from="1480278227049" duration="1067000" />
+      <workItem from="1480296872679" duration="7067000" />
+      <workItem from="1480335503701" duration="3853000" />
+      <workItem from="1480785645365" duration="185000" />
+      <workItem from="1481286939575" duration="252000" />
+      <workItem from="1481290382834" duration="381000" />
+      <workItem from="1481633586195" duration="1184000" />
+      <workItem from="1481742555313" duration="799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6735000" />
+    <option name="totallyTimeSpent" value="21061000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="655" y="23" width="625" height="777" extended-state="0" />
+    <frame x="28" y="23" width="1244" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.448" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22508039" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1145,15 +308,22 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#66#0#PHP" expanded="true" />
+            <marker date="1481743949000" expanded="true" signature="2447:2561" ph="..." />
+            <marker date="1481743949000" expanded="true" signature="2484:2537" ph="..." />
+            <marker date="1481743949000" expanded="true" signature="2552:2561" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1162,7 +332,125 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#40#99#0#PHP" expanded="true" />
+            <element signature="e#40#66#0#PHP" expanded="true" />
+            <marker date="1481743949000" expanded="true" signature="2447:2561" ph="..." />
+            <marker date="1481743949000" expanded="true" signature="2484:2537" ph="..." />
+            <marker date="1481743949000" expanded="true" signature="2552:2561" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/flex/frame.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/flex/pg.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="397" selection-start-line="86" selection-start-column="397" selection-end-line="86" selection-end-column="397" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#66#0#PHP" expanded="true" />
+            <marker date="1481743949000" expanded="true" signature="2447:2561" ph="..." />
+            <marker date="1481743949000" expanded="true" signature="2484:2537" ph="..." />
+            <marker date="1481743949000" expanded="true" signature="2552:2561" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/flex/frame.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/flex/pg.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="397" selection-start-line="86" selection-start-column="397" selection-end-line="86" selection-end-column="397" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#66#0#PHP" expanded="true" />
+            <marker date="1481743949000" expanded="true" signature="2447:2561" ph="..." />
+            <marker date="1481743949000" expanded="true" signature="2484:2537" ph="..." />
+            <marker date="1481743949000" expanded="true" signature="2552:2561" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/flex/frame.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/flex/pg.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="397" selection-start-line="86" selection-start-column="397" selection-end-line="86" selection-end-column="397" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+          <folding>
+            <element signature="e#40#66#0#PHP" expanded="true" />
+            <marker date="1481743949000" expanded="true" signature="2447:2561" ph="..." />
+            <marker date="1481743949000" expanded="true" signature="2484:2537" ph="..." />
+            <marker date="1481743949000" expanded="true" signature="2552:2561" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/flex/frame.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/flex/pg.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="79" column="44" selection-start-line="79" selection-start-column="44" selection-end-line="79" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#66#0#PHP" expanded="true" />
+            <marker date="1481743949000" expanded="true" signature="2447:2561" ph="..." />
+            <marker date="1481743949000" expanded="true" signature="2484:2537" ph="..." />
+            <marker date="1481743949000" expanded="true" signature="2552:2561" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1171,7 +459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1179,7 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1188,7 +474,37 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#40#99#0#PHP" expanded="true" />
+            <element signature="e#40#66#0#PHP" expanded="true" />
+            <marker date="1481743949000" expanded="true" signature="2447:2561" ph="..." />
+            <marker date="1481743949000" expanded="true" signature="2484:2537" ph="..." />
+            <marker date="1481743949000" expanded="true" signature="2552:2561" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/Scraper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#66#0#PHP" expanded="true" />
+            <marker date="1481743949000" expanded="true" signature="2447:2561" ph="..." />
+            <marker date="1481743949000" expanded="true" signature="2484:2537" ph="..." />
+            <marker date="1481743949000" expanded="true" signature="2552:2561" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1197,7 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1212,7 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1221,16 +535,86 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Pokemon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="38" column="20" selection-start-line="13" selection-start-column="4" selection-end-line="38" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/failure.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/pokemon/singlePokemon.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Poke.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-555">
+          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/PokemonType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="e#68#108#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/pokemon/editPokemon.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/flex/frame.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/flex/pg.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="86" column="397" selection-start-line="86" selection-start-column="397" selection-end-line="86" selection-end-column="397" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="262" column="138" selection-start-line="262" selection-start-column="138" selection-end-line="262" selection-end-column="138" />
+        <state relative-caret-position="321">
+          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
           <folding>
-            <element signature="e#40#99#0#PHP" expanded="true" />
+            <element signature="e#40#66#0#PHP" expanded="true" />
+            <marker date="1481743949000" expanded="true" signature="2447:2561" ph="..." />
+            <marker date="1481743949000" expanded="true" signature="2484:2537" ph="..." />
+            <marker date="1481743949000" expanded="true" signature="2552:2561" ph="..." />
           </folding>
         </state>
       </provider>
